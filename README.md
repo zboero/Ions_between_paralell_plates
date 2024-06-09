@@ -1,1 +1,1 @@
-# Ions_between_paralell_plates.py
+# Ions_between_paralell_plates
